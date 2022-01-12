@@ -7,8 +7,10 @@
     <title>Olá Mundo</title>
 </head>
 <body>
-    <?php
-    echo "<h1>Olá Mundo</h1>";
-    ?>
+    <h1>
+        <?php
+        echo "Olá Mundo";
+        ?>
+    </h1>
 </body>
 </html>
